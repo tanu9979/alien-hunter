@@ -62,7 +62,7 @@ window.onload = function() {
     }
 
     alienImg = new Image();
-    alienImg.src = "./alien.png";
+    alienImg.src = "./UFO-Alien-Clipart-edit-online.png";
     createAliens();
 
     requestAnimationFrame(update);
