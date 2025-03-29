@@ -62,8 +62,7 @@ window.onload = function() {
     }
 
     alienImg = new Image();
-    alienImg.src = "./alien.png
-        ";
+    alienImg.src = "./alien.png";
     createAliens();
 
     requestAnimationFrame(update);
